@@ -15,7 +15,7 @@ pornhub = arq.pornhub
 phdl = arq.phdl
 
 app = Client(f"{BOT_NAME}", bot_token=f"{TOKEN}", api_id=6,
-             api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e")
+             api_hash="bad0d2770acaf3a673d42dbe52c4cfee")
 print("\n✨ BOT IS READY TO USE ✨\n")
 
 
